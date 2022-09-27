@@ -1,0 +1,9 @@
+
+/*font-family: 'Gilroy';*/
+/*  */
+body,*  {
+    font-family: 'Gilroy';
+      font-size: 20px ;
+      color: red;
+      font-weight: 500;
+    }
