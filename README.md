@@ -1,1 +1,1 @@
-# project__webcam
+# https://sashagurin.github.io/project__webcam/
