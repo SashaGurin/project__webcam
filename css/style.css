@@ -48,7 +48,7 @@ a {
   color: inherit;
 }
 
-a{
+a {
   color: inherit;
   text-decoration: none;
 }
@@ -201,7 +201,7 @@ body {
   padding-top: 44px;
   width: 100%;
   min-height: 100vh;
-  background-image: url(/img/bg-header.jpg);
+  background-image: url(../img/bg-header.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -231,26 +231,24 @@ body {
 }
 
 .btn {
-  display: inline-block;
+  display: inline-flex;
   border: 1px solid #114455;
   border-radius: 2px;
-  color: #114455 ;
+  color: #114455;
 }
 
 .btn-smal {
-  padding: 10px 24px;
+  padding: 9px 24px;
 }
 
 .btn.btn-big {
-  padding: 14px 32px;
+  padding: 13px 32px;
   background: #114455;
   color: #ffffff;
 }
 
 .arrow-right {
-}
-
-.header__content {
+  margin-left: 18px;
 }
 
 .header__content-title {
@@ -272,5 +270,4 @@ body {
   letter-spacing: -0.02em;
   color: rgba(31, 31, 31, 0.7);
   margin-bottom: 72px;
-
 }
